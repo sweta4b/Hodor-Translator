@@ -1,5 +1,5 @@
 # Funtranslation-app
-A fun translation app which translate your text to the hodor language.
+A fun translation app which translate your text to the hodor's language.
 
 ## How to Use
 * Enter the text you want to translate.
