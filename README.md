@@ -6,8 +6,8 @@ You can translate your message to hodor language by using this app. Click here h
 
 ### How it Works
 * Enter the text you want to translate.
-* Click on translate to hodor button.
+* Click on "Translate to Hodor" button.
 * Translated text shown in the textarea. </br>
 
-![image](https://user-images.githubusercontent.com/110299602/208471791-593b0caa-dace-4d95-8f34-ef34c31f4398.png)
+  ![image](https://user-images.githubusercontent.com/110299602/208471791-593b0caa-dace-4d95-8f34-ef34c31f4398.png)
 
