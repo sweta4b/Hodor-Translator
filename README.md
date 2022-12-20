@@ -1,8 +1,10 @@
 # Funtranslation-app
-A fun translation app made by JS, html, css and funtranslation api.
+
+## Tech Stack
+This app is made by using JavaScript, HTML, CSS and funtranslation api.
 
 ## About
-You can translate your message to hodor language by using this app. Click here https://hodor-language.netlify.app/ for visit the app.
+This app translates your message to hodor language.<br/> Click here https://hodor-language.netlify.app/ to check the app.
 
 ### How it Works
 * Enter the text you want to translate.
